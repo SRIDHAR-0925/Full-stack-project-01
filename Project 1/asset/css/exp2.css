@@ -1,0 +1,59 @@
+.a{
+    color: blue;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+}
+
+.b{
+    display: flex;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+.c{
+    display: flex;
+    column-gap: 20px;
+    list-style: none;
+}
+
+.btns{
+    height: 50px; ;
+    width: 100px;
+    color: black;
+    background-color: wheat ;
+}
+
+.para{
+    text-align: justify;
+}
+.sp{
+    margin-bottom: 20px;
+}
+.btn{
+    columns: black;
+    background-color: wheat;
+    margin-bottom: 10px;
+}
+.sbtn{
+    background-color: red;
+    width: 120px;
+    height: 35px;
+}
+.sp2{
+    margin-top: 20px;
+}
+.bc{
+    background-color: cadetblue ;
+    color: white;
+}
+.sp3{
+    margin-top: 20px;
+}
+.lp{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    padding: 10px;
+}
